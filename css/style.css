@@ -168,14 +168,19 @@ button {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  width: auto;
 }
 
 .popupalighnment .popupimage {
   height: 150px;
-  width: 150px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .popupalighnment .popuptext {
   margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 /*# sourceMappingURL=style.css.map */
